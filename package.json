@@ -1,0 +1,15 @@
+{
+  "name": "phantomas",
+  "version": "1.0.0",
+  "description": "PhantomJS WebFonts Test",
+  "main": "rasterize.js",
+  "scripts": {
+    "test": "phantomjs rasterize.js example/index.html result.png"
+  },
+  "keywords": [
+    "phantomjs",
+    "javascript"
+  ],
+  "author": "Yehor Lvivski <lvivski@gmail.com>",
+  "license": "ISC"
+}
